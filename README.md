@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@hyungminjin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/hyungmin19" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spartasparta819@gmail.com)](mailto:spartasparta819@gmail.com)
+[![Hyungmin's github stats](https://github-readme-stats.vercel.app/api?username=hyungminjin)](https://github.com/anuraghazra/github-readme-stats)
