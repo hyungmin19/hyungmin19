@@ -1,7 +1,7 @@
 <a href="https://velog.io/@hyungminjin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/hyungmin19" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spartasparta819@gmail.com)](mailto:spartasparta819@gmail.com)
-### Hi there 👋
+### 백엔드 개발자가 되고 싶은 진형민입니다. 👋
 
 <!--
 **hyungmin19/hyungmin19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
